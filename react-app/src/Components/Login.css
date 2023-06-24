@@ -1,0 +1,17 @@
+.login-button
+{
+    width:175px;
+    height:40px;
+    background-color: rgb(77, 162, 137);
+    color: white;
+    border-color: white;
+    border-radius:5px;
+    font-size: 20px;
+    box-shadow: none;
+}
+
+.welcome-message
+{
+    margin-top:200px;
+    margin-bottom: 40px;
+}
